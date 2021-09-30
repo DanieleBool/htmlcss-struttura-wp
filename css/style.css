@@ -23,7 +23,7 @@ body{
 }
 
 .header-bottom{
-    margin: 2% 0%;
+    margin: 3% 0%;
     height: 600px;
 }
 
@@ -62,7 +62,6 @@ body{
 
 footer{
     height: 100px;
-    background-color: rgb(136, 1, 254);
     margin-top: 1%;
 }
 
@@ -101,4 +100,7 @@ main.debug{
     height: 700px;
 }
 
+footer.debug{
+    background-color: rgb(136, 1, 254);
+}
 
